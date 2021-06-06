@@ -971,3 +971,10 @@ img.emoji {
 .woocommerce form .form-row .required {
   visibility: visible;
 }
+[class^='flaticon-']:before,
+[class*=' flaticon-']:before,
+[class^='flaticon-']:after,
+[class*=' flaticon-']:after {
+  font-family: Flaticon;
+  font-style: normal;
+}
