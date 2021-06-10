@@ -2121,7 +2121,6 @@ body.sticky .sticky-menu {
   list-style: outside none none;
   margin-bottom: 0;
   padding-left: 0;
-  overflow-y: auto !important;
   width: 100% !important;
 }
 .rsnp-mnu > ul li {
